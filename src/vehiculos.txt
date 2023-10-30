@@ -1,0 +1,8 @@
+WXYR-12,4, Ambulancia, 2, Usado
+DHJL-82,4, Particular, 5, Nuevo
+JBLR-42,4, Taxi, 4, Usado
+TLKF-78, 6,Microbus, 10, Nuevo 
+BZQP -90, 6, Autobus, 20, Usado 
+GIDC-12, 2, Motocicleta,1,Nuevo
+
+3,423,fgdr,4,nuevo
